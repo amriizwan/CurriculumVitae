@@ -1,0 +1,7 @@
+com\mycompany\curriculumvitae\resources\JakartaEE10Resource.class
+com\mycompany\curriculumvitae\model\CvData.class
+com\mycompany\curriculumvitae\model\CvData$Education.class
+com\mycompany\curriculumvitae\controller\ExampleCvServlet.class
+com\mycompany\curriculumvitae\controller\CvFormServlet.class
+com\mycompany\curriculumvitae\model\CvData$Project.class
+com\mycompany\curriculumvitae\model\CvData$Experience.class
